@@ -4,9 +4,13 @@ By Shuangfan Zhou, Chu Zhou, Youwei Lyu, Heng Guo#, Zhanyu Ma, Boxin Shi, Imari 
 ![](Network.png)
 
 # Requirements
-```
-
-```
+- python=3.8.18
+- pytorch=2.0.1
+- cv2
+- numpy
+- tqdm
+- scikit-image
+- 
 
 # Dataset  
 We publicly release our [dataset](), which contains a total of 138 images.
