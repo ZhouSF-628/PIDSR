@@ -1,7 +1,7 @@
 # PIDSR: Complementary Polarized Image Demosaicing and Super-Resolution
 By Shuangfan Zhou, Chu Zhou, Youwei Lyu, Heng Guo#, Zhanyu Ma, Boxin Shi, Imari Sato
 
-
+![](network.png)
 
 # Requirements
 
