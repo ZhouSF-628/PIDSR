@@ -18,8 +18,8 @@ import logging
 os.environ["CUDA_VISIBLE_DEVICES"] = '1'
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--train_path', type=str, default='../../../data/zhoushuangfan/CPIDSR_Data/train')
-parser.add_argument('--test_path', type=str, default='../../../data/zhoushuangfan/CPIDSR_Data/test')
+parser.add_argument('--train_path', type=str, default='')
+parser.add_argument('--test_path', type=str, default='')
 parser.add_argument('--output', type=str, default='./results')
 parser.add_argument('--patch_size', type=int, default=128)
 parser.add_argument('--epochs', type=int, default=100)
