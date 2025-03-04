@@ -10,7 +10,6 @@ By Shuangfan Zhou, Chu Zhou, Youwei Lyu, Heng Guo#, Zhanyu Ma, Boxin Shi, Imari 
 - numpy
 - tqdm
 - scikit-image
-- 
 
 # Dataset  
 We publicly release our [dataset](), which contains a total of 138 images.
