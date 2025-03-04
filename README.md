@@ -21,6 +21,7 @@ python train.py
 ```
 
 # Citation
+If you find this work helpful to your research, please cite:
 > @inproceedings{pidsr2025zhou,  
 > title = {PIDSR: Complementary Polarized Image Demosaicing and Super-Resolution},  
 > author = {Shuangfan, Zhou and Chu, Zhou and Youwei, Lyu and Heng, Guo and Zhanyu, Ma and Boxin, Shi and Imari, Sato},  
