@@ -12,8 +12,34 @@ By Shuangfan Zhou, Chu Zhou, Youwei Lyu, Heng Guo, Zhanyu Ma, Boxin Shi, Imari S
 - scikit-image
 
 # Dataset  
-We publicly release our [dataset](), which contains a total of 138 images.
-
+We publicly release our [dataset](https://drive.google.com/drive/folders/1VWcpbmJsKV9PCCu9xXQCPqZav-FYyon4?dmr=1&ec=wgc-drive-hero-goto), which contains a total of 138 images.
+```plaintext
+data/
+├── train/
+│   ├── 001/
+│   │   ├── RGB_0.png
+│   │   ├── RGB_45.png
+│   │   ├── RGB_90.png
+│   │   └── RGB_135.png
+│   ├── 002/
+│   │   ├── RGB_0.png
+│   │   ├── RGB_45.png
+│   │   ├── RGB_90.png
+│   │   └── RGB_135.png
+│   └── .../
+└── test/
+    ├── 001/
+    │   ├── RGB_0.png
+    │   ├── RGB_45.png
+    │   ├── RGB_90.png
+    │   └── RGB_135.png
+    ├── 002/
+    │   ├── RGB_0.png
+    │   ├── RGB_45.png
+    │   ├── RGB_90.png
+    │   └── RGB_135.png
+    └── .../
+```
 # Pre-trained models
 We provide the [pre-trained](https://drive.google.com/drive/folders/1dsWY6tupOHFvaeaQti-JUfKgyO-iBxOq?dmr=1&ec=wgc-drive-hero-goto) models for inference
 
