@@ -15,7 +15,7 @@ By Shuangfan Zhou, Chu Zhou, Youwei Lyu, Heng Guo, Zhanyu Ma, Boxin Shi, Imari S
 We publicly release our [dataset](), which contains a total of 138 images.
 
 # Pre-trained models
-We provide the [pre-trained]() models for inference
+We provide the [pre-trained](https://drive.google.com/drive/folders/1dsWY6tupOHFvaeaQti-JUfKgyO-iBxOq?dmr=1&ec=wgc-drive-hero-goto) models for inference
 
 # Inference
 - You can run inference on the example raw images using the following command:
