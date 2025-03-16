@@ -167,7 +167,6 @@ class PIDSRData(data.Dataset):
                     input_list.append(np.concatenate([input_0, input_45, input_90, input_135], axis=-1))
 
         else:
-            # 读取测试数据
             for filename in tqdm(os.listdir(self.root)):
                 img_path = os.path.join(self.root, filename)
                 # crop region for test
