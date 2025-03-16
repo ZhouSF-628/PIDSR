@@ -71,9 +71,7 @@ class PIDSRData(data.Dataset):
         flip_list = []
         for patch in patch_list:
             flip_list.append(patch)
-            # flip left-right, up-down, rotate 90 degree
             flip_list.append(np.flip(patch, axis=1))
-            flip_list.append(np.flip(patch, axis=0))
             flip_list.append(np.rot90(patch, k=-1, axes=(0, 1)))
 
         return flip_list
